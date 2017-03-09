@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map Servo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+EffectPlay	KEYWORD1	EffectPlay
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+playSnippet	KEYWORD2
+setVolume	KEYWORD2
+loopPlay	KEYWORD2
+stop		KEYWORD2
+nvcWrite	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
